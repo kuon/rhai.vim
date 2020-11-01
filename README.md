@@ -1,14 +1,3 @@
-
-# THIS REPOSITORY HAS MOVED
-
-New URL: https://git.goyman.com/kuon/rhai.vim
-
-Why I moved everything out of GitHub:
-
-https://github.com/kuon/WhyILeftGithub/blob/main/README.md
-
-----
-
 # Rhai.vim
 
 Vim syntax plugin for the [rhai language](https://schungx.github.io/rhai).
